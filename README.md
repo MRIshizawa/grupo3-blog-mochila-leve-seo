@@ -16,7 +16,8 @@ Projeto acadêmico **Mochila Leve**, cenário de blog/portal de conteúdo.
 - `relatorio-auditoria-seo-grupo3.pdf`: relatório final.
 - `planilha-apoio-seo-grupo3.xlsx`: pesquisa e mapas exigidos.
 - `apresentacao-seo-grupo3.pptx`: apresentação de 15 minutos.
-- `evidencias/`: relatórios Lighthouse e Nu HTML Checker obtidos em 23/11/2026.
+- `evidencias/`: relatórios Lighthouse, Nu HTML Checker e Google Rich Results obtidos em 23/11/2026.
+- `evidencias/prints/`: capturas visuais dos quatro testes apresentados no relatório e nos slides.
 
 ## Estado final da entrega
 
@@ -33,7 +34,7 @@ Repositório Git: `https://github.com/MRIshizawa/grupo3-blog-mochila-leve-seo`
 
 ## Uso de IA
 
-O grupo utilizou OpenAI Codex para apoiar a auditoria técnica, a reescrita do HTML/CSS, a organização de palavras-chave e a preparação dos rascunhos dos entregáveis. Os integrantes devem revisar e saber explicar todo o conteúdo antes da apresentação.
+O grupo utilizou OpenAI Codex em todas as etapas do trabalho: auditoria, estratégia, reescrita do HTML/CSS, metadados, URLs, imagens, links internos, robots.txt, sitemap.xml, redirecionamentos, JSON-LD, pesquisa de palavras-chave, conteúdo, testes, Git, apoio à publicação no Netlify e produção do relatório, da planilha e da apresentação. Os integrantes forneceram os dados, autorizaram as alterações, revisaram os resultados e assumem a responsabilidade pela entrega.
 
 ## Resultados medidos
 

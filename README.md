@@ -18,12 +18,12 @@ Projeto acadêmico **Mochila Leve**, cenário de blog/portal de conteúdo.
 - `apresentacao-seo-grupo3.pptx`: apresentação de 15 minutos.
 - `evidencias/`: relatórios Lighthouse e Nu HTML Checker obtidos em 23/11/2026.
 
-## Antes de publicar
+## Estado final da entrega
 
-1. Substitua `SEU-USUARIO` em todos os arquivos da pasta `v1` pelo usuário ou domínio real.
-2. Preencha os nomes dos integrantes nos três entregáveis.
-3. Publique `v0` e `v1` em URLs públicas e registre as URLs aqui.
-4. Execute Lighthouse, W3C e validadores de dados estruturados nas URLs públicas. Insira os prints nos espaços indicados no relatório e nos slides.
+1. Os arquivos da pasta `v1` usam o domínio público real do projeto.
+2. Os nomes dos quatro integrantes constam nos entregáveis.
+3. As versões `v0` e `v1` estão publicadas nas URLs abaixo.
+4. Lighthouse, Nu HTML Checker e Google Rich Results foram executados; os resultados estão no relatório, na apresentação e na pasta `evidencias`.
 
 URL pública v0: `https://mochila-leve-grupo3-v0.netlify.app/`
 

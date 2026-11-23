@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mochila-leve-grupo3-v1.netlify.app/sitemap.xml
+

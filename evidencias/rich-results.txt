@@ -1,0 +1,10 @@
+GOOGLE RICH RESULTS - EVIDÊNCIA
+Data e hora: 23/11/2026, 00:25 (America/Sao_Paulo)
+URL testada: https://mochila-leve-grupo3-v1.netlify.app/como-arrumar-mochila.html
+Resultado: 2 itens válidos detectados
+- Article: 1 item válido
+- BreadcrumbList: 1 item válido
+URL do resultado: https://search.google.com/test/rich-results/result?id=iV6HMqbG-75leTPLE4thjQ
+
+O teste inicial exibiu cinco avisos opcionais relacionados às datas sem horário/fuso e à URL do autor.
+Esses campos foram corrigidos em todos os seis artigos na versão final do código.
